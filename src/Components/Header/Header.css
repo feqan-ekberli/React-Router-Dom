@@ -1,0 +1,16 @@
+.header{
+    background-color: black;
+    padding: 12px;
+    color: #fff;
+}
+.nav-box {
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
+.nav-item{
+    text-decoration: none;
+    color: white;
+}
+
+
